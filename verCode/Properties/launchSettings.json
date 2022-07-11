@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "verCode": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Isaac\\Desktop\\FGO VerCode extractor\\temp\\dlls\\Assembly-CSharp.dll"
+    }
+  }
+}
